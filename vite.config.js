@@ -8,4 +8,7 @@ export default defineConfig({
             refresh: true,
         }),
     ],
+    build: {
+        outDir: 'public/dist',  // Set the output directory explicitly (Laravel typically serves from public)
+    },
 });

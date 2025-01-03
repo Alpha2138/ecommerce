@@ -106,10 +106,6 @@
 </div>
 <!-- End Products Section -->
 
-<!-- Footer -->
-@include('partials.footer')
-<!-- End Footer -->
-
 <!-- Scripts -->
 <script src="{{ asset('assets/js/jquery-1.11.3.min.js') }}"></script>
 <script src="{{ asset('assets/bootstrap/js/bootstrap.min.js') }}"></script>

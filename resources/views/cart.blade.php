@@ -78,7 +78,7 @@
 
     <div class="d-flex justify-content-between mt-4 mb-5">
         <a href="{{ route('shop') }}" class="btn btn-primary">Continue Shopping</a>
-        <a href="https://wa.me/9558698068?text={{ $whatsappMessage }}" class="btn btn-success" target="_blank">Proceed to Checkout</a>
+        <a href="https://wa.me/9033881931?text={{ $whatsappMessage }}" class="btn btn-success" target="_blank">Proceed to Checkout</a>
     </div>
     @endif
 </div>

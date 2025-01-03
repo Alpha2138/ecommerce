@@ -5,8 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Responsive Bootstrap4 Shop Template, Created by Imran Hossain from https://imransdesign.com/">
-
+    <meta name="description" content="Week Free sanitary pads, Baby Smile baby care products, and No Entry condoms. Buy directly from the manufacturer in Ahmedabad, Gujarat. High quality, affordable prices, and reliable service.">
     <title>@yield('title', 'Fortune')</title>
 
     <link rel="shortcut icon" type="image/png" href="{{ asset('assets/img/favicon.png') }}">
